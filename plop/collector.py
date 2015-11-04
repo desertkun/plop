@@ -3,7 +3,7 @@ import collections
 import os
 import signal
 import sys
-from six.moves import _thread
+from six.moves import thread
 import time
 import argparse
 import six
